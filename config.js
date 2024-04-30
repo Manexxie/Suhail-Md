@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="samsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.email ="malukula006@gmail.comgmail.com"
+global.location="Africa,zimbabwe."
 
 
 global.mongodb= process.env.MONGODB_URI || ""
@@ -16,17 +16,17 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/zimbabwe";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
+global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL";
+global.website=process.env.GURL || "https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs = "263781512420" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923184474176";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "263782512420";
 
 
 
@@ -37,7 +37,7 @@ global.flush = process.env.FLUSH   || "false"; // Make it "true" if bot not resp
 global.gdbye = process.env.GOODBYE || "false"; 
 global.wlcm  = process.env.WELCOME || "false";  // Make it "false" for disable WELCOME 
 
-global.warncount = process.env.WARN_COUNT || 3
+global.warncount = process.env.WARN_COUNT || 2
 global.disablepm = process.env.DISABLE_PM || "false"
 global.disablegroup = process.env.DISABLE_GROUPS || "false", // disable bot in groups when public mode
 
