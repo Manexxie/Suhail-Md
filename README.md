@@ -25,8 +25,9 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Suhail_Md is free to use" href="https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL" target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg
+     https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL" target="_blank" />
   </a>
 
 </p>
@@ -119,6 +120,7 @@
 10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
 10. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
 ##
+'https://chat.whatsapp.com/HfDrgRKpcWMHf0rJmWY4DL'
 
  <details close>
 <summary>RENDER DEPLOY PROCESS</summary>
